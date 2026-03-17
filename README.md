@@ -1,5 +1,10 @@
 # Credit Risk Prediction & Customer Segmentation using Machine Learning
 
+## 🌐 Live Report
+
+Explore the full consulting-style report here:  
+👉 [View Interactive Report](https://egrandaAI.github.io/Credit-Risk-ML-Analysis/)
+
 ## Overview
 
 This project analyzes credit card client behavior using the **Default of Credit Card Clients dataset (UCI Repository)** to uncover key drivers of default risk and improve predictive modeling through machine learning.
